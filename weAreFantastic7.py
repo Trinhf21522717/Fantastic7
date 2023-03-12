@@ -1,0 +1,1 @@
+print('We are Fantastic 7')
